@@ -1,0 +1,2 @@
+Original string: 510Hello, World!10 2 39 10 27
+Reversed string: 72 01 93 2 01!dlroW ,olleH015
